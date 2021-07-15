@@ -40,6 +40,7 @@ Welcome to my Github Profile! I am junior front-end developer from Russia. I lov
 		LearnJapanese()
 		FindAJob()
 		MoveToAnotherCountry()
+		GetToFullStack()
 		// Assume 10 more awesome ambitions here  ;)
     }
 }
