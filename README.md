@@ -9,11 +9,11 @@
 
 Welcome to my Github Profile! I am junior front-end developer from Russia. I love coding on React.js.
 
-## 💻 Technologies I Love
+## 💻 Technologies I Use
 * **React**
 * **CSS** (SCSS)
 * **Effector**
-* **Frontend  Web Development**
+* **RemixJS**
 
 [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-edb200?style=flat-square&logo=javascript&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.org)  [<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />](https://npmjs.com) [<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)  [<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />](https://prettier.io/) [<img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />](https://eslint.org/) [<img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />](https://code.visualstudio.com/)
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
@@ -42,11 +42,10 @@ Welcome to my Github Profile! I am junior front-end developer from Russia. I lov
         Vologda_Russia()
     }
 	
-    Ambitions() {
-		LearnJapanese()
-		FindAJob()
-		MoveToAnotherCountry()
-		GetToFullStack()
+    ambitions() 
+		findAJob()
+		moveToAnotherCountry()
+		getToFullStack()
 		// Assume 10 more awesome ambitions here  ;)
     }
 }
@@ -54,7 +53,7 @@ Welcome to my Github Profile! I am junior front-end developer from Russia. I lov
  ```
  
 ## Current Works
- * I'm currently working on 🔭 building **Web Apps using React** and working up on polishing my skills 🌱.
+ * I'm currently working on 🔭 building **Web Apps using React or NextJS or also Remix** and working up on polishing my skills 🌱.
  * Learning SSR comp and other modern technologies.
  
 ## Other Stuff
@@ -63,4 +62,4 @@ Welcome to my Github Profile! I am junior front-end developer from Russia. I lov
 
   ___
 
-Last Edited on: 15/07/2021
+Last Edited on: 29/11/2021
