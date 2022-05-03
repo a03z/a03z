@@ -53,7 +53,7 @@ Welcome to my Github Profile! I am junior front-end developer from Russia. I lov
  ```
  
 ## Current Works
- * I'm currently working on 🔭 building **Web Apps using React or NextJS or also Remix** and working up on polishing my skills 🌱.
+ * I'm currently working on 🔭 building **Web Apps using React or NextJS** and working up on polishing my skills 🌱.
  * Learning SSR comp and other modern technologies.
  
 ## Other Stuff
@@ -62,4 +62,4 @@ Welcome to my Github Profile! I am junior front-end developer from Russia. I lov
 
   ___
 
-Last Edited on: 29/11/2021
+Last Edited on: 04/05/2022
